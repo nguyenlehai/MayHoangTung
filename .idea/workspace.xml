@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d0e3133-4e79-46e2-9c4e-6a24b15f6757" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/quanly.mayhoangtung.com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action_login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/util.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JosefinSans/JosefinSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JosefinSans/JosefinSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JosefinSans/JosefinSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JosefinSans/JosefinSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JosefinSans/JosefinSans-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JosefinSans/JosefinSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JosefinSans/JosefinSans-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JosefinSans/JosefinSans-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JosefinSans/JosefinSans-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JosefinSans/JosefinSans-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/JosefinSans/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconic/css/material-design-iconic-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconic/css/material-design-iconic-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconic/fonts/Material-Design-Iconic-Font.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconic/fonts/Material-Design-Iconic-Font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconic/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/SourceSansPro-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/SourceSansPro-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/SourceSansPro-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/SourceSansPro-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/SourceSansPro-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/SourceSansPro-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/SourceSansPro-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/SourceSansPro-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/SourceSansPro-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/SourceSansPro-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/SourceSansPro-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/source-sans-pro/SourceSansPro-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/ace-ie.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/ace-part2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/ace-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/ace-skins.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/ace.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/bootstrap-colorpicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/bootstrap-datepicker3.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/bootstrap-duallistbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/bootstrap-editable.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/bootstrap-multiselect.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/bootstrap-timepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/chosen.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/colorbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/daterangepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/dropzone.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/fonts.googleapis.com.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/fullcalendar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/images/meteorshower2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/images/pattern.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/jquery-ui.custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/jquery.gritter.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/prettify.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/css/ui.jqgrid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/font-awesome/4.5.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/avatars/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/avatars/avatar1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/avatars/avatar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/avatars/avatar3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/avatars/avatar4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/avatars/avatar5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/avatars/profile-pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/avatars/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/avatars/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/bootstrap-colorpicker/alpha-horizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/bootstrap-colorpicker/alpha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/bootstrap-colorpicker/hue-horizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/bootstrap-colorpicker/hue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/bootstrap-colorpicker/saturation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/email/email1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/email/email2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/email/email3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/email/email4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/gallery/image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/gallery/image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/gallery/image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/gallery/image-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/gallery/image-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/gallery/image-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/gallery/thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/gallery/thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/gallery/thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/gallery/thumb-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/gallery/thumb-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/gallery/thumb-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/out.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/out2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/placeholder/165x90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/placeholder/255x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/placeholder/530x270.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/images/placeholder/550x280.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/ace-editable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/ace-elements.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/ace-extra.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/ace.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/autosize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/bootbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/bootstrap-colorpicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/bootstrap-datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/bootstrap-editable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/bootstrap-markdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/bootstrap-multiselect.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/bootstrap-tag.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/bootstrap-timepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/bootstrap-wysiwyg.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/buttons.colVis.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/buttons.flash.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/buttons.html5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/buttons.print.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/chosen.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/dataTables.buttons.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/dataTables.select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/daterangepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/dropzone.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/excanvas.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/grid.locale-en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/holder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery-2.1.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery-additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery-typeahead.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery-ui.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.bootstrap-duallistbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.colorbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.easypiechart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.flot.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.flot.pie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.flot.resize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.gritter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.hotkeys.index.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.inputlimiter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.jqGrid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.knob.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.maskedinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.mobile.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.nestable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.raty.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.sparkline.index.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.ui.touch-punch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/markdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/prettify.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/spin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/spinbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/themcongnhan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/tree.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/js/wizard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/assets/swf/flashExport.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/backupdb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/backupsrc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/chitietcandoicongdoan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/config/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/delete_chamcong.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/delete_gopma.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/edit_bophan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/edit_congnhan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/edit_donhang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/edit_donhanggoc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/edit_khachhang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/edit_profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/edit_sanluong.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/gopmatinhluong.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/js/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/js/canvasjs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/kiemtramahang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/navbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/nhapchamcong.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/nhapsanluong.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/quanlybophan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/quanlycongnhan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/quanlydonhang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/quanlydonhanggoc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/quanlykhachhang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/quanlysanluong.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/thembophan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/themcongnhan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/themdonhang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/themkhachhang.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/theodoidoanhthu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/theodoiphieuchi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/icon-google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icons/map-marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/canvasjs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/map-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/themcongnhan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/animsition/css/animsition.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/animsition/css/animsition.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/animsition/js/animsition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/animsition/js/animsition.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/countdowntime/countdowntime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/css-hamburgers/hamburgers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/css-hamburgers/hamburgers.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/daterangepicker/daterangepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/daterangepicker/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/daterangepicker/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/daterangepicker/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/perfect-scrollbar/perfect-scrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/perfect-scrollbar/perfect-scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/select2/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/select2/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/select2/select2.min.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jXqgwNIxkejI6e3SFBegPKvnH4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d0e3133-4e79-46e2-9c4e-6a24b15f6757" name="Default Changelist" comment="" />
+      <created>1603960902042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603960902042</updated>
+      <workItem from="1603960904837" duration="794000" />
+      <workItem from="1603963087050" duration="598000" />
+      <workItem from="1603983652096" duration="4832000" />
+      <workItem from="1604130172221" duration="9000" />
+      <workItem from="1604310892416" duration="597000" />
+      <workItem from="1604385288188" duration="34000" />
+      <workItem from="1604581971285" duration="2914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="0" key="#PHP" timestamp="1603985988718">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="517" y="0" key="#PHP/0.0.1440.852@0.0.1440.852" timestamp="1603985988718" />
+    <state x="336" y="352" key="#SQL_Dialects" timestamp="1603961054174">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="336" y="352" key="#SQL_Dialects/0.0.1920.1032@0.0.1920.1032" timestamp="1603961054174" />
+    <state x="551" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603961094288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="551" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1603961094288" />
+    <state x="456" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603985835151">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="456" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.852@0.0.1440.852" timestamp="1603985835151" />
+    <state x="460" y="142" key="SettingsEditor" timestamp="1603960929817">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="460" y="142" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1603960929817" />
+    <state x="311" y="153" key="Vcs.Push.Dialog.v2" timestamp="1603987046561">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="311" y="153" key="Vcs.Push.Dialog.v2/0.0.1440.852@0.0.1440.852" timestamp="1603987046561" />
+    <state x="569" y="30" width="780" height="971" key="find.popup" timestamp="1604977535450">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="427" y="25" width="585" height="801" key="find.popup/0.0.1440.852@0.0.1440.852" timestamp="1604582735069" />
+    <state x="455" y="24" width="585" height="801" key="find.popup/0.0.1536.826@0.0.1536.826" timestamp="1604582261490" />
+    <state x="569" y="30" width="780" height="971" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1604977535450" />
+  </component>
+</project>
